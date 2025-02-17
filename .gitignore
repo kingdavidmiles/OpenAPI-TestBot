@@ -1,0 +1,8 @@
+# Ignore virtual environment folder
+venv/
+
+# Ignore test directory (if you don't want to track it in Git)
+Test/
+
+# Ignore .env file
+.env

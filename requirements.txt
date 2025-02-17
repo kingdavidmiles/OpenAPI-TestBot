@@ -1,0 +1,6 @@
+requests
+prance
+openai
+pytest
+openapi-spec-validator
+python-dotenv
